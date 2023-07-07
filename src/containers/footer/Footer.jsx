@@ -19,16 +19,16 @@ const Footer = () => (
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Links</h4>
-        <p>Overons</p>
-        <p>Social Media</p>
-        <p>Counters</p>
-        <p>Contact</p>
+        <a href="#"><p>Overons</p></a>
+        <a href='#'><p>Social Media</p></a>
+        <a href='#'><p>Counters</p></a>
+        <a href='#'><p>Contact</p></a>
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Company</h4>
-        <p>Terms & Conditions </p>
-        <p>Privacy Policy</p>
-        <p>Contact</p>
+        <a href='#'><p>Terms & Conditions </p></a>
+        <a href='#'><p>Privacy Policy</p></a>
+        <a href='#'><p>Contact</p></a>
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Get in touch</h4>
